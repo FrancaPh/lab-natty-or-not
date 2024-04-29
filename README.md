@@ -1,7 +1,7 @@
 # 8-bits em uma Protoboard ;)
 
 ## 📒 Descrição
-Este e-book explora o a criação de computadores de 8-bits em protoboards, e foi criado como parte do projeto no curso de IA da **[DIO](https://web.dio.me)**, que se tratava na criação de um e-book utilizando-se apenas de inteligências artificiais.
+Este e-book explora a criação de computadores de 8-bits em protoboards, e foi criado como parte do projeto no curso de IA da **[DIO](https://web.dio.me)**, que se tratava na criação de um e-book utilizando-se apenas de inteligências artificiais.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gemini](https://gemini.google.com/app)** para criação do texto;
